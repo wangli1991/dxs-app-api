@@ -1,0 +1,646 @@
+2021-05-23 08:38:14: redis启动成功
+2021-05-23 08:38:14: null OK
+2021-05-23 08:38:14: null aa
+2021-05-23 08:38:14: null { a: 'aa' }
+2021-05-23 08:39:03: redis启动成功
+2021-05-23 08:39:03: null OK
+2021-05-23 08:39:03: null aa
+2021-05-23 08:39:03: null { a: 'aa' }
+2021-05-23 08:39:47: redis启动成功
+2021-05-23 08:39:47: null OK
+2021-05-23 08:39:47: null aa
+2021-05-23 08:39:47: null { a: 'aa' }
+2021-05-23 08:39:59: redis启动成功
+2021-05-23 08:39:59: null OK
+2021-05-23 08:39:59: null aa
+2021-05-23 08:39:59: null { a: 'aa' }
+2021-05-23 08:40:23: redis启动成功
+2021-05-23 08:40:23: null OK
+2021-05-23 08:40:23: null aa
+2021-05-23 08:40:23: null { a: 'aa' }
+2021-05-23 11:07:05: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=1 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-23 11:14:22: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=4 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-23 11:41:48: redis启动成功
+2021-05-23 11:41:48: null OK
+2021-05-23 11:41:48: null aa
+2021-05-23 11:41:48: null { a: 'aa' }
+2021-05-23 11:42:25: redis启动成功
+2021-05-23 11:42:25: null OK
+2021-05-23 11:42:25: null aa
+2021-05-23 11:42:25: null { a: 'aa' }
+2021-05-23 11:42:47: redis启动成功
+2021-05-23 11:42:47: null OK
+2021-05-23 11:42:47: null aa
+2021-05-23 11:42:47: null { a: 'aa' }
+2021-05-23 11:51:43: redis启动成功
+2021-05-23 11:51:43: null OK
+2021-05-23 11:51:43: null aa
+2021-05-23 11:51:43: null { a: 'aa' }
+2021-05-23 11:52:19: redis启动成功
+2021-05-23 11:52:19: null OK
+2021-05-23 11:52:19: null aa
+2021-05-23 11:52:19: null { a: 'aa' }
+2021-05-23 11:52:25: redis启动成功
+2021-05-23 11:52:25: null OK
+2021-05-23 11:52:25: null aa
+2021-05-23 11:52:25: null { a: 'aa' }
+2021-05-23 11:52:41: redis启动成功
+2021-05-23 11:52:41: null OK
+2021-05-23 11:52:41: null aa
+2021-05-23 11:52:41: null { a: 'aa' }
+2021-05-23 11:52:55: redis启动成功
+2021-05-23 11:52:55: null OK
+2021-05-23 11:52:55: null aa
+2021-05-23 11:52:55: null { a: 'aa' }
+2021-05-23 11:53:09: redis启动成功
+2021-05-23 11:53:09: null OK
+2021-05-23 11:53:09: null aa
+2021-05-23 11:53:09: null { a: 'aa' }
+2021-05-23 11:53:18: redis启动成功
+2021-05-23 11:53:18: null OK
+2021-05-23 11:53:18: null aa
+2021-05-23 11:53:18: null { a: 'aa' }
+2021-05-23 11:53:24: redis启动成功
+2021-05-23 11:53:24: null OK
+2021-05-23 11:53:24: null aa
+2021-05-23 11:53:24: null { a: 'aa' }
+2021-05-23 11:53:47: redis启动成功
+2021-05-23 11:53:47: null OK
+2021-05-23 11:53:47: null aa
+2021-05-23 11:53:47: null { a: 'aa' }
+2021-05-23 11:53:53: redis启动成功
+2021-05-23 11:53:53: null OK
+2021-05-23 11:53:53: null aa
+2021-05-23 11:53:53: null { a: 'aa' }
+2021-05-23 11:54:03: redis启动成功
+2021-05-23 11:54:03: null OK
+2021-05-23 11:54:03: null aa
+2021-05-23 11:54:03: null { a: 'aa' }
+2021-05-24 11:28:13: redis启动成功
+2021-05-24 11:28:13: null OK
+2021-05-24 11:28:13: null aa
+2021-05-24 11:28:13: null { a: 'aa' }
+2021-05-24 11:28:21: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 11:29:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 11:29:31: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 11:29:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:53:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:53:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:54:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:54:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:54:23: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:55:02: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:55:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:56:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:57:02: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 13:57:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:02:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:02:53: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:03:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:05:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:06:08: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:06:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:15:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:15:32: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:15:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:16:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:23:47: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:24:17: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:29:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:30:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:31:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:32:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:32:47: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:34:03: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:34:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:35:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:36:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:36:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:36:48: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:40:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:42:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:42:40: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:43:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:43:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:45:01: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:45:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:45:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:46:48: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:47:12: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:47:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:47:43: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:48:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:48:40: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:48:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:49:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:49:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:49:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:50:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:50:25: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:51:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:51:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:51:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:52:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:52:10: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:52:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:52:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:53:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:53:31: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:53:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:53:53: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:54:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:54:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:55:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:56:16: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:56:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:57:10: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:58:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:58:37: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:58:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:59:21: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 14:59:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:01:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:01:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:01:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:02:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:02:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:02:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:02:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:03:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:03:32: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:03:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:04:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:16: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:25: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:05:32: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:06:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:06:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:07:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:08:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:08:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:08:31: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:09:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:10:00: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:10:51: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:10:59: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=1 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-24 15:11:41: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:11:55: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=1 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-24 15:12:11: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:12:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:12:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:13:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:14:18: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=1 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-24 15:14:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:14:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:14:50: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:15:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:15:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:16:11: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:16:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:16:43: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:17:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:17:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:17:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:17:57: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:18:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:18:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:18:50: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:19:17: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:20:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:20:37: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:21:17: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:21:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:21:47: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:22:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:22:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:22:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:23:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:23:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:24:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:25:41: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:26:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:26:25: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:26:40: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:27:00: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:28:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:28:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:29:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:29:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:29:23: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:30:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:30:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:31:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:31:37: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:31:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:32:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:32:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:33:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:33:32: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:34:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:34:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:34:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:35:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:36:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:36:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:36:51: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:37:00: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:37:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:37:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:38:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:38:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:38:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:38:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:39:10: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:39:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:39:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:41:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:41:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:42:24: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:42:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:42:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:44:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:44:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:45:21: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:46:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:47:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:48:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:48:40: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:49:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:50:41: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:50:47: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:51:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:51:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:51:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:52:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:52:23: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:52:23: Session {
+  cookie: { path: '/', _expires: null, originalMaxAge: null, httpOnly: true },
+  jwt: 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uX2tleSI6InkyWWdkdE93a1hFT0duMWxVV3hRMmc9PSIsIm9wZW5pZCI6Im9RX3Atd1VjZ3puOHc0dDdLc0lNMk1uSnh3MlEiLCJpYXQiOjE2MjE4NDI3NDMsImV4cCI6MTYyMTg0MzA0M30.7HZiT90KmtbNpA3BzpITFcLFKY8Ib1-tJJ13gpQIOaE'
+}
+2021-05-24 15:53:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:54:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:55:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:56:27: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:56:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:57:03: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 15:57:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:25:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:26:43: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:26:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:27:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:27:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:28:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 16:28:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:27:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:28:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:28:57: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:29:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:30:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:30:53: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:31:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:31:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:31:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:32:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:32:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:33:02: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:33:31: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:33:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 18:34:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:43:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:43:23: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:43:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:45:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:45:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 19:46:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:33:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:36:11: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:36:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:37:50: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:38:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:42:15: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:42:37: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:43:16: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:43:43: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:44:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:45:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:45:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:45:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-24 20:51:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:15:07: redis启动成功
+2021-05-25 05:15:07: null OK
+2021-05-25 05:15:07: null TOKEN:DJShd7HOE_xp5GIl0uRMnrAvCvEO0TED
+2021-05-25 05:15:07: ReplyError: WRONGTYPE Operation against a key holding the wrong kind of value
+    at parseError (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:179:12)
+    at parseType (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:302:14) {
+  command: 'HGETALL',
+  args: [ 'TOKEN:DJShd7HOE_xp5GIl0uRMnrAvCvEO0TED' ],
+  code: 'WRONGTYPE'
+} undefined
+2021-05-25 05:17:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:17:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:19:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:19:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:20:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:20:50: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:22:10: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:22:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:22:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:23:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:23:47: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:24:10: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:24:24: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:24:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:24:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:25:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:25:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:25:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:26:02: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:26:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:27:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:28:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:28:53: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:29:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:29:53: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:30:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:30:17: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:30:48: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:31:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:31:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:31:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:32:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:33:01: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:33:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:37:48: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 05:38:32: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 08:57:33: redis启动成功
+2021-05-25 08:57:33: null OK
+2021-05-25 08:57:33: null aa
+2021-05-25 08:57:33: null { a: 'aa' }
+2021-05-25 08:58:16: redis启动成功
+2021-05-25 08:58:16: null OK
+2021-05-25 08:58:16: null aa
+2021-05-25 08:58:16: null { a: 'aa' }
+2021-05-25 08:58:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:03:23: redis启动成功
+2021-05-25 09:03:23: null OK
+2021-05-25 09:03:23: null aa
+2021-05-25 09:03:23: null { a: 'aa' }
+2021-05-25 09:08:27: redis启动成功
+2021-05-25 09:08:27: null OK
+2021-05-25 09:08:27: null aa
+2021-05-25 09:08:27: null { a: 'aa' }
+2021-05-25 09:13:31: redis启动成功
+2021-05-25 09:13:31: null OK
+2021-05-25 09:13:31: null aa
+2021-05-25 09:13:31: null { a: 'aa' }
+2021-05-25 09:18:37: redis启动成功
+2021-05-25 09:18:37: null OK
+2021-05-25 09:18:37: null aa
+2021-05-25 09:18:37: null { a: 'aa' }
+2021-05-25 09:19:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:19:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:20:06: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:20:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:21:12: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:21:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:21:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:22:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:22:40: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:23:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:28:21: redis启动成功
+2021-05-25 09:28:21: null OK
+2021-05-25 09:28:21: null aa
+2021-05-25 09:28:21: null { a: 'aa' }
+2021-05-25 09:33:26: redis启动成功
+2021-05-25 09:33:26: null OK
+2021-05-25 09:33:26: null aa
+2021-05-25 09:33:26: null { a: 'aa' }
+2021-05-25 09:33:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:34:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:34:34: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:35:11: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:35:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:40:31: redis启动成功
+2021-05-25 09:40:31: null OK
+2021-05-25 09:40:31: null aa
+2021-05-25 09:40:31: null { a: 'aa' }
+2021-05-25 09:45:33: redis启动成功
+2021-05-25 09:45:33: null OK
+2021-05-25 09:45:33: null aa
+2021-05-25 09:45:33: null { a: 'aa' }
+2021-05-25 09:50:36: redis启动成功
+2021-05-25 09:50:36: null OK
+2021-05-25 09:50:36: null aa
+2021-05-25 09:50:36: null { a: 'aa' }
+2021-05-25 09:52:38: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:52:43: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:53:16: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:53:51: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:58:54: redis启动成功
+2021-05-25 09:58:54: null OK
+2021-05-25 09:58:54: null aa
+2021-05-25 09:58:54: null { a: 'aa' }
+2021-05-25 09:59:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:04:06: redis启动成功
+2021-05-25 10:04:06: null OK
+2021-05-25 10:04:06: null aa
+2021-05-25 10:04:06: null { a: 'aa' }
+2021-05-25 10:04:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:09:12: redis启动成功
+2021-05-25 10:09:12: null OK
+2021-05-25 10:09:12: null aa
+2021-05-25 10:09:12: null { a: 'aa' }
+2021-05-25 10:14:16: redis启动成功
+2021-05-25 10:14:16: null OK
+2021-05-25 10:14:16: null aa
+2021-05-25 10:14:16: null { a: 'aa' }
+2021-05-25 10:17:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:17:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:17:51: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:17:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:22:59: redis启动成功
+2021-05-25 10:22:59: null OK
+2021-05-25 10:22:59: null aa
+2021-05-25 10:22:59: null { a: 'aa' }
+2021-05-25 10:28:04: redis启动成功
+2021-05-25 10:28:04: null OK
+2021-05-25 10:28:04: null aa
+2021-05-25 10:28:04: null { a: 'aa' }
+2021-05-25 10:28:31: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:33:34: redis启动成功
+2021-05-25 10:33:34: null OK
+2021-05-25 10:33:34: null aa
+2021-05-25 10:33:34: null { a: 'aa' }
+2021-05-25 10:38:38: redis启动成功
+2021-05-25 10:38:38: null OK
+2021-05-25 10:38:38: null aa
+2021-05-25 10:38:38: null { a: 'aa' }
+2021-05-25 10:43:40: redis启动成功
+2021-05-25 10:43:40: null OK
+2021-05-25 10:43:40: null aa
+2021-05-25 10:43:40: null { a: 'aa' }
+2021-05-25 10:48:43: redis启动成功
+2021-05-25 10:48:43: null OK
+2021-05-25 10:48:43: null aa
+2021-05-25 10:48:43: null { a: 'aa' }
+2021-05-25 10:53:48: redis启动成功
+2021-05-25 10:53:48: null OK
+2021-05-25 10:53:48: null aa
+2021-05-25 10:53:48: null { a: 'aa' }
+2021-05-25 10:58:52: redis启动成功
+2021-05-25 10:58:52: null OK
+2021-05-25 10:58:52: null aa
+2021-05-25 10:58:52: null { a: 'aa' }
+2021-05-25 11:03:56: redis启动成功
+2021-05-25 11:03:56: null OK
+2021-05-25 11:03:56: null aa
+2021-05-25 11:03:56: null { a: 'aa' }
+2021-05-25 11:09:00: redis启动成功
+2021-05-25 11:09:00: null OK
+2021-05-25 11:09:00: null aa
+2021-05-25 11:09:00: null { a: 'aa' }
+2021-05-25 11:14:03: redis启动成功
+2021-05-25 11:14:03: null OK
+2021-05-25 11:14:03: null aa
+2021-05-25 11:14:03: null { a: 'aa' }
+2021-05-25 11:19:07: redis启动成功
+2021-05-25 11:19:07: null OK
+2021-05-25 11:19:07: null aa
+2021-05-25 11:19:07: null { a: 'aa' }
+2021-05-25 11:24:09: redis启动成功
+2021-05-25 11:24:09: null OK
+2021-05-25 11:24:09: null aa
+2021-05-25 11:24:09: null { a: 'aa' }
+2021-05-25 11:29:13: redis启动成功
+2021-05-25 11:29:13: null OK
+2021-05-25 11:29:13: null aa
+2021-05-25 11:29:13: null { a: 'aa' }
+2021-05-25 11:34:15: redis启动成功
+2021-05-25 11:34:15: null OK
+2021-05-25 11:34:15: null aa
+2021-05-25 11:34:15: null { a: 'aa' }
+2021-05-25 11:39:17: redis启动成功
+2021-05-25 11:39:17: null OK
+2021-05-25 11:39:17: null aa
+2021-05-25 11:39:17: null { a: 'aa' }
+2021-05-25 11:44:21: redis启动成功
+2021-05-25 11:44:21: null OK
+2021-05-25 11:44:21: null aa
+2021-05-25 11:44:21: null { a: 'aa' }
+2021-05-25 11:49:26: redis启动成功
+2021-05-25 11:49:26: null OK
+2021-05-25 11:49:26: null aa
+2021-05-25 11:49:26: null { a: 'aa' }
+2021-05-25 11:54:29: redis启动成功
+2021-05-25 11:54:29: null OK
+2021-05-25 11:54:29: null aa
+2021-05-25 11:54:29: null { a: 'aa' }
+2021-05-25 11:59:32: redis启动成功
+2021-05-25 11:59:32: null OK
+2021-05-25 11:59:32: null aa
+2021-05-25 11:59:32: null { a: 'aa' }
+2021-05-25 12:04:34: redis启动成功
+2021-05-25 12:04:34: null OK
+2021-05-25 12:04:34: null aa
+2021-05-25 12:04:34: null { a: 'aa' }
+2021-05-25 12:09:36: redis启动成功
+2021-05-25 12:09:36: null OK
+2021-05-25 12:09:36: null aa
+2021-05-25 12:09:36: null { a: 'aa' }
+2021-05-25 12:14:40: redis启动成功
+2021-05-25 12:14:40: null OK
+2021-05-25 12:14:40: null aa
+2021-05-25 12:14:40: null { a: 'aa' }
+2021-05-25 12:19:43: redis启动成功
+2021-05-25 12:19:43: null OK
+2021-05-25 12:19:43: null aa
+2021-05-25 12:19:43: null { a: 'aa' }
+2021-05-25 12:24:47: redis启动成功
+2021-05-25 12:24:47: null OK
+2021-05-25 12:24:47: null aa
+2021-05-25 12:24:47: null { a: 'aa' }
+2021-05-25 12:29:50: redis启动成功
+2021-05-25 12:29:50: null OK
+2021-05-25 12:29:50: null aa
+2021-05-25 12:29:50: null { a: 'aa' }
+2021-05-25 12:34:54: redis启动成功
+2021-05-25 12:34:54: null OK
+2021-05-25 12:34:54: null aa
+2021-05-25 12:34:54: null { a: 'aa' }
+2021-05-25 12:40:00: redis启动成功
+2021-05-25 12:40:00: null OK
+2021-05-25 12:40:00: null aa
+2021-05-25 12:40:00: null { a: 'aa' }
+2021-05-25 12:45:02: redis启动成功
+2021-05-25 12:45:02: null OK
+2021-05-25 12:45:02: null aa
+2021-05-25 12:45:02: null { a: 'aa' }
+2021-05-25 13:59:36: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 13:59:41: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:00:19: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:01:20: redis启动成功
+2021-05-25 14:01:20: null OK
+2021-05-25 14:01:20: null aa
+2021-05-25 14:01:20: null { a: 'aa' }
+2021-05-25 14:01:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:04:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:04:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:04:12: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:04:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:04:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:05:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:10:18: redis启动成功
+2021-05-25 14:10:18: null OK
+2021-05-25 14:10:18: null aa
+2021-05-25 14:10:18: null { a: 'aa' }
+2021-05-25 14:10:21: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:15:27: redis启动成功
+2021-05-25 14:15:27: null OK
+2021-05-25 14:15:27: null aa
+2021-05-25 14:15:27: null { a: 'aa' }
+2021-05-25 14:15:46: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:15:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:16:20: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:16:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:21:32: redis启动成功
+2021-05-25 14:21:32: null OK
+2021-05-25 14:21:32: null aa
+2021-05-25 14:21:32: null { a: 'aa' }
+2021-05-25 14:22:03: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:23:49: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:23:57: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:24:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:24:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:24:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:24:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:29:21: redis启动成功
+2021-05-25 14:29:21: null OK
+2021-05-25 14:29:21: null aa
+2021-05-25 14:29:21: null { a: 'aa' }
+2021-05-25 14:34:24: redis启动成功
+2021-05-25 14:34:24: null OK
+2021-05-25 14:34:24: null aa
+2021-05-25 14:34:24: null { a: 'aa' }
+2021-05-25 14:39:30: redis启动成功
+2021-05-25 14:39:30: null OK
+2021-05-25 14:39:30: null aa
+2021-05-25 14:39:30: null { a: 'aa' }
+2021-05-25 14:44:34: redis启动成功
+2021-05-25 14:44:34: null OK
+2021-05-25 14:44:34: null aa
+2021-05-25 14:44:34: null { a: 'aa' }
+2021-05-25 14:49:38: redis启动成功
+2021-05-25 14:49:38: null OK
+2021-05-25 14:49:38: null aa
+2021-05-25 14:49:38: null { a: 'aa' }
+2021-05-25 14:54:41: redis启动成功
+2021-05-25 14:54:41: null OK
+2021-05-25 14:54:41: null aa
+2021-05-25 14:54:41: null { a: 'aa' }
+2021-05-25 14:59:44: redis启动成功
+2021-05-25 14:59:44: null OK
+2021-05-25 14:59:44: null aa
+2021-05-25 14:59:44: null { a: 'aa' }

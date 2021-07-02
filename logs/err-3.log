@@ -1,0 +1,160 @@
+2021-06-04 05:21:28: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:31: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:33: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:36: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:39: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:43: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:48: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:21:55: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:05: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:22: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:24: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:27: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:29: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:36: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:38: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:41: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:43: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:46: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:50: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}
+2021-06-04 05:22:55: Error: Redis connection to 82.157.117.22:6379 failed - connect ECONNREFUSED 82.157.117.22:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1137:16) {
+  errno: 'ECONNREFUSED',
+  code: 'ECONNREFUSED',
+  syscall: 'connect',
+  address: '82.157.117.22',
+  port: 6379
+}

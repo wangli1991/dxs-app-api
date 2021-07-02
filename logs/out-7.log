@@ -1,0 +1,266 @@
+2021-05-23 08:38:14: redis启动成功
+2021-05-23 08:38:14: null OK
+2021-05-23 08:38:14: null aa
+2021-05-23 08:38:14: null { a: 'aa' }
+2021-05-23 08:39:03: redis启动成功
+2021-05-23 08:39:03: null OK
+2021-05-23 08:39:03: null aa
+2021-05-23 08:39:03: null { a: 'aa' }
+2021-05-23 08:39:46: redis启动成功
+2021-05-23 08:39:46: null OK
+2021-05-23 08:39:46: null aa
+2021-05-23 08:39:46: null { a: 'aa' }
+2021-05-23 08:39:59: redis启动成功
+2021-05-23 08:39:59: null OK
+2021-05-23 08:39:59: null aa
+2021-05-23 08:39:59: null { a: 'aa' }
+2021-05-23 08:40:23: redis启动成功
+2021-05-23 08:40:23: null OK
+2021-05-23 08:40:23: null aa
+2021-05-23 08:40:23: null { a: 'aa' }
+2021-05-23 11:41:48: redis启动成功
+2021-05-23 11:41:48: null OK
+2021-05-23 11:41:48: null aa
+2021-05-23 11:41:48: null { a: 'aa' }
+2021-05-23 11:42:25: redis启动成功
+2021-05-23 11:42:25: null OK
+2021-05-23 11:42:25: null aa
+2021-05-23 11:42:25: null { a: 'aa' }
+2021-05-23 11:42:46: redis启动成功
+2021-05-23 11:42:46: null OK
+2021-05-23 11:42:46: null aa
+2021-05-23 11:42:46: null { a: 'aa' }
+2021-05-23 11:51:43: redis启动成功
+2021-05-23 11:51:43: null OK
+2021-05-23 11:51:43: null aa
+2021-05-23 11:51:43: null { a: 'aa' }
+2021-05-23 11:52:18: redis启动成功
+2021-05-23 11:52:18: null OK
+2021-05-23 11:52:18: null aa
+2021-05-23 11:52:18: null { a: 'aa' }
+2021-05-23 11:52:25: redis启动成功
+2021-05-23 11:52:25: null OK
+2021-05-23 11:52:25: null aa
+2021-05-23 11:52:25: null { a: 'aa' }
+2021-05-23 11:52:41: redis启动成功
+2021-05-23 11:52:41: null OK
+2021-05-23 11:52:41: null aa
+2021-05-23 11:52:41: null { a: 'aa' }
+2021-05-23 11:52:55: redis启动成功
+2021-05-23 11:52:55: null OK
+2021-05-23 11:52:55: null aa
+2021-05-23 11:52:55: null { a: 'aa' }
+2021-05-23 11:53:09: redis启动成功
+2021-05-23 11:53:09: null OK
+2021-05-23 11:53:09: null aa
+2021-05-23 11:53:09: null { a: 'aa' }
+2021-05-23 11:53:18: redis启动成功
+2021-05-23 11:53:18: null OK
+2021-05-23 11:53:18: null aa
+2021-05-23 11:53:18: null { a: 'aa' }
+2021-05-23 11:53:24: redis启动成功
+2021-05-23 11:53:24: null OK
+2021-05-23 11:53:24: null aa
+2021-05-23 11:53:24: null { a: 'aa' }
+2021-05-23 11:53:47: redis启动成功
+2021-05-23 11:53:47: null OK
+2021-05-23 11:53:47: null aa
+2021-05-23 11:53:47: null { a: 'aa' }
+2021-05-23 11:53:53: redis启动成功
+2021-05-23 11:53:53: null OK
+2021-05-23 11:53:53: null aa
+2021-05-23 11:53:53: null { a: 'aa' }
+2021-05-23 11:54:03: redis启动成功
+2021-05-23 11:54:03: null OK
+2021-05-23 11:54:03: null aa
+2021-05-23 11:54:03: null { a: 'aa' }
+2021-05-24 11:28:13: redis启动成功
+2021-05-24 11:28:13: null OK
+2021-05-24 11:28:13: null aa
+2021-05-24 11:28:13: null { a: 'aa' }
+2021-05-25 05:15:07: redis启动成功
+2021-05-25 05:15:07: null OK
+2021-05-25 05:15:07: null TOKEN:DJShd7HOE_xp5GIl0uRMnrAvCvEO0TED
+2021-05-25 05:15:07: ReplyError: WRONGTYPE Operation against a key holding the wrong kind of value
+    at parseError (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:179:12)
+    at parseType (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:302:14) {
+  command: 'HGETALL',
+  args: [ 'TOKEN:DJShd7HOE_xp5GIl0uRMnrAvCvEO0TED' ],
+  code: 'WRONGTYPE'
+} undefined
+2021-05-25 08:57:33: redis启动成功
+2021-05-25 08:57:33: null OK
+2021-05-25 08:57:33: null aa
+2021-05-25 08:57:33: null { a: 'aa' }
+2021-05-25 08:58:16: redis启动成功
+2021-05-25 08:58:16: null OK
+2021-05-25 08:58:16: null aa
+2021-05-25 08:58:16: null { a: 'aa' }
+2021-05-25 09:03:20: redis启动成功
+2021-05-25 09:03:20: null OK
+2021-05-25 09:03:20: null aa
+2021-05-25 09:03:20: null { a: 'aa' }
+2021-05-25 09:08:24: redis启动成功
+2021-05-25 09:08:24: null OK
+2021-05-25 09:08:24: null aa
+2021-05-25 09:08:24: null { a: 'aa' }
+2021-05-25 09:13:28: redis启动成功
+2021-05-25 09:13:28: null OK
+2021-05-25 09:13:28: null aa
+2021-05-25 09:13:28: null { a: 'aa' }
+2021-05-25 09:18:33: redis启动成功
+2021-05-25 09:18:33: null OK
+2021-05-25 09:18:33: null aa
+2021-05-25 09:18:33: null { a: 'aa' }
+2021-05-25 09:23:37: redis启动成功
+2021-05-25 09:23:37: null OK
+2021-05-25 09:23:37: null aa
+2021-05-25 09:23:37: null { a: 'aa' }
+2021-05-25 09:23:50: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:24:04: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:26:16: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:26:35: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:31:40: redis启动成功
+2021-05-25 09:31:40: null OK
+2021-05-25 09:31:40: null aa
+2021-05-25 09:31:40: null { a: 'aa' }
+2021-05-25 09:31:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:32:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:33:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:38:12: redis启动成功
+2021-05-25 09:38:12: null OK
+2021-05-25 09:38:12: null aa
+2021-05-25 09:38:12: null { a: 'aa' }
+2021-05-25 09:38:24: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:38:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:43:56: redis启动成功
+2021-05-25 09:43:56: null OK
+2021-05-25 09:43:56: null aa
+2021-05-25 09:43:56: null { a: 'aa' }
+2021-05-25 09:44:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:49:23: redis启动成功
+2021-05-25 09:49:23: null OK
+2021-05-25 09:49:23: null aa
+2021-05-25 09:49:23: null { a: 'aa' }
+2021-05-25 09:50:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:50:12: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:50:22: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:55:26: redis启动成功
+2021-05-25 09:55:26: null OK
+2021-05-25 09:55:26: null aa
+2021-05-25 09:55:26: null { a: 'aa' }
+2021-05-25 09:56:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:56:58: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:57:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:58:33: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 09:58:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:03:49: redis启动成功
+2021-05-25 10:03:49: null OK
+2021-05-25 10:03:49: null aa
+2021-05-25 10:03:49: null { a: 'aa' }
+2021-05-25 10:08:52: redis启动成功
+2021-05-25 10:08:52: null OK
+2021-05-25 10:08:52: null aa
+2021-05-25 10:08:52: null { a: 'aa' }
+2021-05-25 10:13:53: redis启动成功
+2021-05-25 10:13:53: null OK
+2021-05-25 10:13:53: null aa
+2021-05-25 10:13:53: null { a: 'aa' }
+2021-05-25 10:18:55: redis启动成功
+2021-05-25 10:18:55: null OK
+2021-05-25 10:18:55: null aa
+2021-05-25 10:18:55: null { a: 'aa' }
+2021-05-25 10:18:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:19:01: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:19:18: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:19:29: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:19:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:19:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:20:01: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:20:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:20:37: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:20:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:20:55: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:21:07: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:21:14: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:21:30: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:21:56: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 10:26:59: redis启动成功
+2021-05-25 10:26:59: null OK
+2021-05-25 10:26:59: null aa
+2021-05-25 10:26:59: null { a: 'aa' }
+2021-05-25 10:32:04: redis启动成功
+2021-05-25 10:32:04: null OK
+2021-05-25 10:32:04: null aa
+2021-05-25 10:32:04: null { a: 'aa' }
+2021-05-25 10:37:09: redis启动成功
+2021-05-25 10:37:09: null OK
+2021-05-25 10:37:09: null aa
+2021-05-25 10:37:09: null { a: 'aa' }
+2021-05-25 10:42:12: redis启动成功
+2021-05-25 10:42:12: null OK
+2021-05-25 10:42:12: null aa
+2021-05-25 10:42:12: null { a: 'aa' }
+2021-05-25 14:01:20: redis启动成功
+2021-05-25 14:01:20: null OK
+2021-05-25 14:01:20: null aa
+2021-05-25 14:01:20: null { a: 'aa' }
+2021-05-25 14:06:24: redis启动成功
+2021-05-25 14:06:24: null OK
+2021-05-25 14:06:24: null aa
+2021-05-25 14:06:24: null { a: 'aa' }
+2021-05-25 14:06:28: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:06:44: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:06:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:06:54: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:07:09: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:07:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:07:26: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:07:52: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:08:17: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:08:57: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:08:59: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:09:45: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:10:01: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:15:04: redis启动成功
+2021-05-25 14:15:04: null OK
+2021-05-25 14:15:04: null aa
+2021-05-25 14:15:04: null { a: 'aa' }
+2021-05-25 14:20:08: redis启动成功
+2021-05-25 14:20:08: null OK
+2021-05-25 14:20:08: null aa
+2021-05-25 14:20:08: null { a: 'aa' }
+2021-05-25 14:20:23: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=4) LIMIT 0,10
+2021-05-25 14:20:36: SELECT SUM(count) as TOTAL,a.id as cart_id FROM tbl_cart a INNER JOIN tbl_product b ON (a.product_id = b.id) WHERE b.sales_status=1 and a.product_id=3 and a.uid='oQ_p-wUcgzn8w4t7KsIM2MnJxw2Q'
+2021-05-25 14:21:13: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=2) LIMIT 0,10
+2021-05-25 14:26:17: redis启动成功
+2021-05-25 14:26:17: null OK
+2021-05-25 14:26:17: null aa
+2021-05-25 14:26:17: null { a: 'aa' }
+2021-05-25 14:31:19: redis启动成功
+2021-05-25 14:31:19: null OK
+2021-05-25 14:31:19: null aa
+2021-05-25 14:31:19: null { a: 'aa' }
+2021-05-25 14:36:22: redis启动成功
+2021-05-25 14:36:22: null OK
+2021-05-25 14:36:22: null aa
+2021-05-25 14:36:22: null { a: 'aa' }
+2021-05-25 14:36:42: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:37:05: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:37:39: SELECT * FROM tbl_product WHERE id IN (SELECT products FROM tbl_recommend WHERE type=0) LIMIT 0,10
+2021-05-25 14:42:44: redis启动成功
+2021-05-25 14:42:44: null OK
+2021-05-25 14:42:44: null aa
+2021-05-25 14:42:44: null { a: 'aa' }
+2021-05-25 14:47:48: redis启动成功
+2021-05-25 14:47:48: null OK
+2021-05-25 14:47:48: null aa
+2021-05-25 14:47:48: null { a: 'aa' }
+2021-05-25 14:52:51: redis启动成功
+2021-05-25 14:52:51: null OK
+2021-05-25 14:52:51: null aa
+2021-05-25 14:52:51: null { a: 'aa' }
+2021-05-25 14:57:53: redis启动成功
+2021-05-25 14:57:53: null OK
+2021-05-25 14:57:53: null aa
+2021-05-25 14:57:53: null { a: 'aa' }

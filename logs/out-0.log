@@ -1,0 +1,14 @@
+2021-06-04 05:23:01: redis启动成功
+2021-06-04 05:23:01: null OK
+2021-06-04 05:23:01: null TOKEN:-xoK6rs_34O4Lw2d78Y83v7imHT6yCmA
+2021-06-04 05:23:01: ReplyError: WRONGTYPE Operation against a key holding the wrong kind of value
+    at parseError (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:179:12)
+    at parseType (F:\wlProjects\dxsApi\node_modules\redis-parser\lib\parser.js:302:14) {
+  command: 'HGETALL',
+  args: [ 'TOKEN:-xoK6rs_34O4Lw2d78Y83v7imHT6yCmA' ],
+  code: 'WRONGTYPE'
+} undefined
+2021-06-04 05:24:59: redis启动成功
+2021-06-04 05:24:59: null OK
+2021-06-04 05:24:59: null aa
+2021-06-04 05:24:59: null { a: 'aa' }
